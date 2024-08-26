@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Joey-Xue-Personal-Site/static/css/main.80097666.css",
-    "main.js": "/Joey-Xue-Personal-Site/static/js/main.abd0a645.js",
+    "main.css": "/Joey-Xue-Personal-Site/static/css/main.8c1c5219.css",
+    "main.js": "/Joey-Xue-Personal-Site/static/js/main.588b8664.js",
+    "static/media/Background.jpg": "/Joey-Xue-Personal-Site/static/media/Background.cd4d188963ad472b9d34.jpg",
     "index.html": "/Joey-Xue-Personal-Site/index.html",
-    "main.80097666.css.map": "/Joey-Xue-Personal-Site/static/css/main.80097666.css.map",
-    "main.abd0a645.js.map": "/Joey-Xue-Personal-Site/static/js/main.abd0a645.js.map"
+    "main.8c1c5219.css.map": "/Joey-Xue-Personal-Site/static/css/main.8c1c5219.css.map",
+    "main.588b8664.js.map": "/Joey-Xue-Personal-Site/static/js/main.588b8664.js.map"
   },
   "entrypoints": [
-    "static/css/main.80097666.css",
-    "static/js/main.abd0a645.js"
+    "static/css/main.8c1c5219.css",
+    "static/js/main.588b8664.js"
   ]
 }
