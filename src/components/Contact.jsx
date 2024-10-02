@@ -29,7 +29,7 @@ const Contact = () => (
           <div>
             <p className="font-bold">LinkedIn</p>
             <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
-            https://www.linkedin.com/in/xue-joey-781b32306/
+            https://www.linkedin.com/in/xue-jiayu-781b32306/
             </a>
           </div>
         </div>
